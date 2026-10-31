@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+matplotlib
+fastapi
+pydantic>=2
+uvicorn[standard]
+requests
